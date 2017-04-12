@@ -1,0 +1,89 @@
+body{
+    background-color: dimgrey;
+}
+
+p{
+    font-family: Arial;
+    font-size: 12px;
+
+
+}
+
+h3{
+    color:black;
+    
+}
+
+li{
+
+}
+a{
+    color: white;
+    font-weight: bold;
+}
+#Header{
+    border: solid 8px black;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 10px;
+
+    text-align: center;
+
+}
+
+#Header h1{
+    font-size: 60px;
+    font-family: "Passion-One";
+    color: #FFBC00;
+    font-weight: bold;
+
+
+
+}
+
+#LeftNav{
+    border: solid 8px black;
+    width: 400px;
+    margin-bottom: 10 px;
+    Float: left;
+
+    text-align: center;
+    padding: 8px;
+}
+
+#LeftNav img{
+
+}
+
+#LeftNav ul{
+    list-style-type: none;
+
+}
+
+#LeftNav h3{
+
+}
+
+#Content{
+    margin-top: 10px;
+    border: solid 8px black;
+    width 700px;
+
+    text-align: center;
+    padding: 15px;
+
+
+}
+
+#Footer{
+    text-align: center;
+    list-style-type: none;
+
+}
+
+#Footer ul{
+    list-style-type: none;
+    padding: 0px;
+
+}
